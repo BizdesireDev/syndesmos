@@ -54,7 +54,7 @@
                                 <li class="font-Manrope text-typography-400 text-[14px] leading-[22px]"><a class="font-Manrope text-typography-400 text-[14px] leading-[22px]" href=""> Πολιτική επιστροφών</a> </li>
                             </ul>
                         </div>
-                        <div class="information md:w-[50%] w-[100%] lg:w-[329px]mb-[20px] lg:mb-[0] ">
+                        <div class="information md:w-[50%] w-[100%] lg:w-[329px] mb-[20px] lg:mb-[0] ">
                             <div class="mb-[20px]">
                                 <p class="font-bold font-Manrope text-typography-400 text-[14px] leading-[22px]">Syndesmos S.A.</p>
                                 <p class="font-Manrope text-typography-400 text-[14px] leading-[22px]">Ψαρών 17 & Αιγίνης, 131 22 Ίλιον, Ελλάδα</p>
@@ -77,13 +77,12 @@
             <div class="w-container-width mr-auto ml-auto pt-[28.4px] pb-[28.4px] lg:pl-[60px] lg:pr-[50px]">
                 <div class="flex justify-center lg:justify-between flex-wrap text-center lg:text-left">
                     <div>
-                        <p class="font-Manrope text-typography-800 text-[10px] inline">© 2022 Syndesmos S.A. All rights reserved 
-                            <ul class="list-none m-0 p-0 inline-flex">
-                                <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] md:ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Privacy Policy</li>
-                                <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Cookie Policy</li>
-                                <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Terms & Conditions</li>
-                            </ul>
-                        </p>
+                        <p class="font-Manrope text-typography-800 text-[10px] inline mr-[15px]">© 2022 Syndesmos S.A. All rights reserved </p>
+                        <ul class="list-none m-0 p-0 inline-flex">
+                            <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] ml-[0] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Privacy Policy</li>
+                            <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Cookie Policy</li>
+                            <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Terms & Conditions</li>
+                        </ul>
                     </div>
                     <div>
                         <p class="font-Manrope text-typography-800 text-[9px] lg:mr-[6.4px] inline">designed & developed by <img :src="copy" class="inline ml-[10px]"/></p>

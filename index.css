@@ -68,6 +68,9 @@
 /* *{
     letter-spacing: 1px;
 } */
+/* *:hover{
+    transition: all .30s;
+} */
 .instagram li:hover .instagram-hover{
     display: flex;
     cursor: pointer;
@@ -132,12 +135,39 @@
     max-width: 60px;
     font-size: 0;
 }
-.banner-img:hover{
-    box-shadow: 0 0 15px 0 rgb(0 0 0 / 40%)
+.banner-img{
+    transition: transform .5s;
 }
+.banner-img:hover{
+    /* transition: transform .5s; */
+    transform: scale(1.02);
+}
+@keyframes zoom {
+    0% {
+      transform: scale(1, 1);
+    }
+    100% {
+      transform: scale(1.02, 1.02);
+    }
+  }
 @media(min-width: 2000px){
     .custom-carosel .swiper-slide{
         height:1000px !important;
+    }
+}
+@media(max-width: 767px){
+    .swiper-button-prev{
+        width: 40px;
+        left: -8px;
+    }
+    .swiper-button-next{
+        width: 40px;
+        right: -8px;
+    }
+    .swiper-button-prev:after,
+    .swiper-button-next:after{
+        width: 40px;
+        height: 40px;
     }
 }
 @media(max-width: 1000px){

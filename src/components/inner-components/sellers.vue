@@ -1,5 +1,5 @@
 <template>
-    <div class="flex flex-wrap ml-[-14px] mr-[-14px]" >
+    <div class="flex flex-wrap ml-[-14px] mr-[-14px] justify-center lg:justify-start">
         <div class="seller-box border pt-[12px] pb-[12px] lg:pt-[24px] lg:pb-[24px] pl-[12px] pr-[12px] ml-[13.8px] mr-[13.8px] flex items-center border-border-img-100 mb-[30px] max-w-[100%] md:max-w-[45%] lg:max-w-[47%] 2xl:max-w-[31%] w-[100%]">
             <div class="img pr-[8px] border-r-2 border-border-img-100 w-[150px] flex justify-center items-center">
                 <img class="ml-[auto] mr-[auto] h-[142px] object-contain" :src="seller1"/>

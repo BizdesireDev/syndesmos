@@ -21,8 +21,8 @@
                             <p class="font-Manrope text-typography-900 text-[16px] leading-[20px] ml-[15px]">Προϊόντα</p>
                         </div>
                     </div>
-                    <div class="flex items-center lg:order-2">
-                        <div class="flex items-center">
+                    <div class="flex items-center w-[100%] md:w-[auto] lg:order-2">
+                        <div class="flex items-center w-[100%] md:w-[auto]">
                             <input type="search" class="w-[100%] 2xl:w-[752px] border-t-0 border-l-0 border-r-0 border-b border-border-img-400 text-[16px] font-Manrope pb-10px text-typography-100 mr-[16.3px] pl-0 pt-0 pr-0 placeholder:text-typography-500 focus:ring-transparent focus:outline-0 focus:border-t-0 focus:border-l-0 focus:border-r-0 focus:border-border-img-400 focus:shadow-none" placeholder="ψάχνω για …"/>
                             <a href="#" class=""><img :src="search" /></a>
                         </div>

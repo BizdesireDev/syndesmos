@@ -5,7 +5,7 @@
                 <div class="more-img relative h-[100%]">
                     <img :src="more6" class="w-[100%] h-[100%]"/>
                 </div>
-                <a href="" class="absolute bottom-[13px] right-[10px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrow" class=""/></a>
+                <a href="" class="absolute bottom-[13px] right-[20px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrow" class=""/></a>
                 <badge class=" absolute text-[14px] bg-black top-[21px] left-[16px] rounded-[4px] pt-[3px] pb-[5px] pl-[14px] pr-[14px] font-Manrope text-white leading-[23px] text-center font-bold">NEW PRODUCTS</badge>
                 <div class="desc w-[100%] absolute left-[16px] bottom-[20px] lg:bottom-[40px] text-black ">
                     <p class="font-Manrope text-[18px] leading-[28px] font-bold mb-[7px]">20 Μαΐου, 2021</p>
@@ -18,7 +18,7 @@
                          <div class="more-img relative h-[100%]">
                             <img :src="more7" class="h-[100%] w-[100%]"/>
                         </div>
-                        <a href="" class="absolute bottom-[13px] right-[10px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrow" class=""/></a>
+                        <a href="" class="absolute bottom-[13px] right-[20px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrow" class=""/></a>
                         <badge class=" absolute bg-black text-[14px] top-[21px] left-[16px] rounded-[4px] pt-[0] pb-[0] pl-[14px] pr-[14px] font-Manrope text-white leading-[25px] text-center font-bold">News</badge>
                         <div class="desc w-[73%] absolute left-[16px] bottom-[20px] lg:bottom-[20px] xl:bottom-[7px] 2xl:bottom-[30px] ">
                             <p class="font-Manrope text-[18px] leading-[28px] font-bold mb-[7px] text-typography-100">29 Μαρτίου, 2021</p>
@@ -29,7 +29,7 @@
                          <div class="more-img relative h-[100%]">
                             <img :src="more8" class="h-[100%] w-[100%]"/>
                         </div>
-                            <a href="" class="absolute bottom-[13px] right-[10px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrowW" class=""/></a>
+                            <a href="" class="absolute bottom-[13px] right-[20px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrowW" class=""/></a>
                         <badge class=" absolute bg-black text-[14px] top-[21px] left-[16px] rounded-[4px] pt-[0] pb-[0] pl-[14px] pr-[14px] font-Manrope text-white leading-[25px] text-center font-bold">News</badge>
                         <div class="desc w-[73%] absolute left-[16px] bottom-[20px] lg:bottom-[20px] xl:bottom-[7px] 2xl:bottom-[30px] text-white ">
                             <p class="font-Manrope text-[18px] leading-[28px] font-bold mb-[7px] ">26 Μαρτίου, 2021</p>
@@ -42,7 +42,7 @@
                          <div class="more-img relative h-[100%]">
                             <img :src="more9" class="h-[100%] w-[100%]"/>
                         </div>
-                            <a href="" class="absolute bottom-[13px] right-[10px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrow" class=""/></a>
+                            <a href="" class="absolute bottom-[13px] right-[20px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrow" class=""/></a>
                         <badge class=" absolute bg-black text-[14px] top-[21px] left-[16px] rounded-[4px] pt-[0] pb-[0] pl-[14px] pr-[14px] font-Manrope text-white leading-[25px] text-center font-bold">News</badge>
                         <div class="desc w-[73%] absolute left-[16px] bottom-[20px] lg:bottom-[20px] xl:bottom-[7px] 2xl:bottom-[30px] text-black ">
                             <p class="font-Manrope text-[18px] leading-[28px] font-bold mb-[7px] text-typography-100">30 Μαρτίου, 2021</p>
@@ -53,7 +53,7 @@
                          <div class="more-img relative h-[100%]">
                             <img :src="more10" class="h-[100%] w-[100%]"/>
                         </div>
-                        <a href="" class="absolute bottom-[13px] right-[10px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrowW" class=""/></a>
+                        <a href="" class="absolute bottom-[13px] right-[20px] lg:right-[20px] w-[20px] lg:w-[auto]"><img :src="arrowW" class=""/></a>
                         <badge class=" absolute bg-black text-[14px] top-[21px] left-[16px] rounded-[4px] pt-[0] pb-[0] pl-[14px] pr-[14px] font-Manrope text-white leading-[25px] text-center font-bold">News</badge>
                         <div class="desc w-[73%] absolute left-[16px] bottom-[20px] lg:bottom-[20px] xl:bottom-[7px] 2xl:bottom-[30px] text-white ">
                             <p class="font-Manrope text-[18px] leading-[28px] font-bold mb-[7px]">30 Μαρτίου, 2021</p>
