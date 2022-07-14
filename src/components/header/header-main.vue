@@ -1,9 +1,9 @@
 <template>
     <div>
-        <div class="max-w-[1920px] w-[100%] relative h-[100% ] ml-[auto] mr-[auto] pl-[20px] pr-[20px] border-b-[3px] border-border-img-100 ">
+        <div class="w-[100%] relative h-[100% ] ml-[auto] mr-[auto] pl-[20px] pr-[20px] border-b-[3px] border-border-img-100 ">
            <nav class="pt-[10px] pb-[15px]">
                 <div class="flex flex-wrap justify-between items-end">
-                    <div class="flex flex-row items-baseline mb-[20px] lg:mb-[0] ">
+                    <div class="flex flex-row items-baseline mb-[20px] md:mb-[0] justify-between w-[100%] md:w-[auto]">
                         <a href="https://flowbite.com" class="flex items-center">
                                 <img :src="logo" />
                         </a>

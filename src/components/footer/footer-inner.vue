@@ -20,7 +20,7 @@
                                 </a></li>
                             </ul>
                         </div>
-                        <div class="md:w-[auto] w-[100%] lg:w-[auto] mb-[20px] lg:mb-[0]">
+                        <div class="md:w-[50%] w-[100%] lg:w-[auto] mb-[20px] lg:mb-[0]">
                             <ul class="list-none m-0 p-0">
                                 <li class="font-bold font-Manrope text-typography-400 text-[14px] leading-[22px]">Κατηγορίες</li>
                                 <li class="font-Manrope text-typography-400 text-[14px] leading-[22px]"><a class="font-Manrope text-typography-400 text-[14px] leading-[22px]" href="">Α’ Ύλες</a> </li>
@@ -36,7 +36,7 @@
                                 <li class="font-Manrope text-typography-400 text-[14px] leading-[22px]"><a class="font-Manrope text-typography-400 text-[14px] leading-[22px]" href=""> Είδη Covid-19</a> </li>
                             </ul>
                         </div>
-                        <div class="md:w-[auto] w-[100%] lg:w-[auto] mb-[20px] lg:mb-[0]">
+                        <div class="md:w-[50%] w-[100%] lg:w-[auto] mb-[20px] lg:mb-[0]">
                             <ul class="list-none m-0 p-0">
                                 <li class="font-bold font-Manrope text-typography-400 text-[14px] leading-[22px]">Μενού</li>
                                 <li class="font-Manrope text-typography-400 text-[14px] leading-[22px]"><a class="font-Manrope text-typography-400 text-[14px] leading-[22px]" href=""> O Λογαριασμός μου</a> </li>
@@ -45,7 +45,7 @@
                                 <li class="font-Manrope text-typography-400 text-[14px] leading-[22px]"><a class="font-Manrope text-typography-400 text-[14px] leading-[22px]" href=""> Επικοινωνία</a> </li>
                             </ul>
                         </div>
-                        <div class="md:w-[auto] w-[100%] lg:w-[auto] mb-[20px] lg:mb-[0]">
+                        <div class="md:w-[50%] w-[100%] lg:w-[auto] mb-[20px] lg:mb-[0]">
                             <ul class="list-none m-0 p-0">
                                 <li class="font-bold font-Manrope text-typography-400 text-[14px] leading-[22px]">Πληροφορίες</li>
                                 <li class="font-Manrope text-typography-400 text-[14px] leading-[22px]"><a class="font-Manrope text-typography-400 text-[14px] leading-[22px]" href=""> Διαθεσιμότητα ειδών</a> </li>
@@ -54,7 +54,7 @@
                                 <li class="font-Manrope text-typography-400 text-[14px] leading-[22px]"><a class="font-Manrope text-typography-400 text-[14px] leading-[22px]" href=""> Πολιτική επιστροφών</a> </li>
                             </ul>
                         </div>
-                        <div class="information md:w-[auto] w-[100%] lg:w-[329px]mb-[20px] lg:mb-[0] ">
+                        <div class="information md:w-[50%] w-[100%] lg:w-[329px]mb-[20px] lg:mb-[0] ">
                             <div class="mb-[20px]">
                                 <p class="font-bold font-Manrope text-typography-400 text-[14px] leading-[22px]">Syndesmos S.A.</p>
                                 <p class="font-Manrope text-typography-400 text-[14px] leading-[22px]">Ψαρών 17 & Αιγίνης, 131 22 Ίλιον, Ελλάδα</p>
@@ -79,7 +79,7 @@
                     <div>
                         <p class="font-Manrope text-typography-800 text-[10px] inline">© 2022 Syndesmos S.A. All rights reserved 
                             <ul class="list-none m-0 p-0 inline-flex">
-                                <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] lg:ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Privacy Policy</li>
+                                <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] md:ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Privacy Policy</li>
                                 <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Cookie Policy</li>
                                 <li class="font-Manrope text-typography-800 text-[10px] relative pl-[15px] ml-[15px] before:content before:absolute before:w-[2px] before:h-full before:left-0 before:bg-back-700">Terms & Conditions</li>
                             </ul>

@@ -8,7 +8,7 @@
                 <div class="">
                     <p class="font-Manrope text-[14px] leading-[20px] lg:text-[18px] lg:leading-[24px] font-semibold text-typography-300">Θέλετε να εγγραφείτε στο newsletter μας; <br />Συμπληρώστε το email σας για να σας ενημερώνουμε για τα νέα μας.</p>
                     <div class="flex items-center mt-[8px]">
-                        <input disabled checked id="radio" type="radio" value="" name="disabled-radio" class="w-4 h-4 text-typography-700 bg-gray-100 border-gray-300 focus:ring-transparent focus:ring-2">
+                        <input checked id="radio" type="radio" value="0" name="radio" class="w-4 h-4 text-typography-700 bg-gray-100 border-gray-300 focus:ring-transparent focus:ring-2">
                         <label for="radio" class="ml-[10px] font-Manrope text-[14px] leading-[28px] font-semibold text-typography-300">Συμφωνώ με την Πολιτική απορρήτου <sapn class="text-typography-700">*</sapn></label>
                     </div>
                 </div>

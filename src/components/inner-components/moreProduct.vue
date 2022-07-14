@@ -14,8 +14,8 @@
             <div class="w-[100%] max-w-[100%] lg:max-w-[49%]">
                 <div class="flex flex-row flex-wrap lg:flex-nowrap justify-between 2xl:h-[365px] mb-[31px]">
                     <div class="w-[48%] max-w-[100%] md:max-w-[48%] lg:max-w-[48%] lg:mb-[0] lg:mr-[29px]">
-                         <div class="more-img relative h-[100%]">
-                            <img :src="more2" class="h-[100%]"/>
+                         <div class="more-img relative">
+                            <img :src="more2" class="h-[100%] w-[100%]"/>
                         </div>
                         <badge class="absolute bg-black text-[14px] top-[21px] left-[16px] rounded-[4px] pt-[0] pb-[0] pl-[14px] pr-[14px] font-Manrope text-white leading-[25px] text-center font-bold">0%</badge>
                         <div class="desc w-[100%] absolute left-[0] pl-[10px] pr-[10px] 2xl:pl-[0] 2xl:pr-[0] 2xl:left-[16px] bottom-[10px] lgbottom-[21px] ">
@@ -24,8 +24,8 @@
                         </div>
                     </div>
                     <div class="w-[48%] max-w-[100%] md:max-w-[48%] lg:max-w-[48%]">
-                         <div class="more-img relative h-[100%]">
-                            <img :src="more3" class="h-[100%]"/>
+                         <div class="more-img relative">
+                            <img :src="more3" class="h-[100%] w-[100%]"/>
                         </div>
                         <badge class="absolute bg-black text-[14px] top-[21px] left-[16px] rounded-[4px] pt-[0] pb-[0] pl-[14px] pr-[14px] font-Manrope text-white leading-[25px] text-center font-bold">0%</badge>
                         <div class="desc w-[100%] absolute left-[0] pl-[10px] pr-[10px] 2xl:pl-[0] 2xl:pr-[0] 2xl:left-[16px] bottom-[10px] lgbottom-[21px] ">
@@ -36,8 +36,8 @@
                 </div>
                 <div class="flex flex-row flex-wrap lg:flex-nowrap justify-between 2xl:h-[365px]">
                     <div class="w-[48%] max-w-[100%] md:max-w-[48%] lg:max-w-[48%] lg:mb-[0] lg:mr-[29px]">
-                         <div class="more-img relative h-[100%]">
-                            <img :src="more4" class="h-[100%]"/>
+                         <div class="more-img relative">
+                            <img :src="more4" class="h-[100%] w-[100%]"/>
                         </div>
                         <badge class="absolute bg-black text-[14px] top-[21px] left-[16px] rounded-[4px] pt-[0] pb-[0] pl-[14px] pr-[14px] font-Manrope text-white leading-[25px] text-center font-bold">20%</badge>
                         <div class="desc w-[100%] absolute left-[0] pl-[10px] pr-[10px] 2xl:pl-[0] 2xl:pr-[0] 2xl:left-[16px] bottom-[10px] lgbottom-[21px] ">
@@ -46,8 +46,8 @@
                         </div>
                     </div>
                     <div class="w-[48%] max-w-[100%] md:max-w-[48%] lg:max-w-[48%]">
-                         <div class="more-img relative h-[100%]">
-                            <img :src="more5" class="h-[100%]"/>
+                         <div class="more-img relative">
+                            <img :src="more5" class="h-[100%] w-[100%]"/>
                         </div>
                         <div class="desc w-[100%] absolute left-[16px] bottom-[21px] text-white">
                             <p class="font-Manrope text-[14px] lg:text-[18px] leading-[18px] lg:leading-[28px] font-bold mb-[7px]">Aqua Beelicious</p>

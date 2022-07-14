@@ -13,9 +13,9 @@
       :centered-slides="true"
       :pagination="{ clickable: true }"
     >
-      <swiper-slide class="slide w-[60%] h-[300px] lg:h-[448px]">
+      <swiper-slide class="slide w-[60%] h-[300px] lg:h-[400px] xl:h-[448px]">
         <div class="relative h-[100%]">
-          <img :src="slider2" class="h-[100%] object-cover lg:object-fill" alt=""/>
+          <img :src="slider2" class="h-[100%] object-cover w-[100%] lg:object-fill" alt=""/>
           <div class="absolute top-[10px] left-[10px] md:top-[15px] md:left-[15px] lg:top-[28px] lg:left-[50px]">
             <img :src="sliderLogo" class="h-[100%]" alt=""/>
             <p class="font-Manrope text-[20px] leading-[24px] lg:text-[32px] lg:leading-[42px] font-bold text-white w-[55%] mb-[160px]">Γνωρίστε τη νέα σειρά δερμοκαλλυντικών προϊόντων</p>
@@ -23,9 +23,9 @@
           <button class="absolute bottom-[10px] left-[10px] md:bottom-[15px] md:left-[15px] lg:bottom-[39px] lg:left-[50px] font-Manrope text-[14px] leading-[16px] text-white pt-[15px] pb-[15px] border border-border-img-100 pl-[13px] pr-[13px]">δείτε περισσότερα</button>
         </div>
       </swiper-slide>
-      <swiper-slide class="slide w-[60%] h-[300px] lg:h-[448px]">
+      <swiper-slide class="slide w-[60%] h-[300px] lg:h-[400px] xl:h-[448px]">
         <div class="relative h-[100%]">
-          <img :src="slider3" class="h-[100%] object-cover lg:object-fill" alt=""/>
+          <img :src="slider3" class="h-[100%] object-cover w-[100%] lg:object-fill" alt=""/>
           <div class="absolute top-[10px] left-[10px] md:top-[15px] md:left-[15px] lg:top-[28px] lg:left-[50px]">
             <p class="font-Manrope text-[16px] leading-[20px] lg:text-[26px] lg:leading-[36px] text-white">Νέα προϊόντα</p>
             <p class="font-Manrope text-[20px] leading-[24px] lg:text-[32px] lg:leading-[42px] font-bold text-white mb-[160px]">Περιέκτης <br /> Με Διπλό Πώμα Child Proof <br />30ml 50τμχ</p>
@@ -33,9 +33,9 @@
           <button class="absolute bottom-[10px] left-[10px] md:bottom-[15px] md:left-[15px] lg:bottom-[39px] lg:left-[50px] font-Manrope text-[14px] leading-[16px] text-white pt-[15px] pb-[15px] border border-border-img-100 pl-[13px] pr-[13px]">δείτε περισσότερα</button>
         </div>
       </swiper-slide>
-      <swiper-slide class="slide w-[60%] h-[300px] lg:h-[448px]">
+      <swiper-slide class="slide w-[60%] h-[300px] lg:h-[400px] xl:h-[448px]">
         <div class="relative h-[100%]">
-          <img :src="slider1" class="h-[100%] object-cover lg:object-fill" alt=""/>
+          <img :src="slider1" class="h-[100%] object-cover w-[100%] lg:object-fill" alt=""/>
           <div class="absolute top-[10px] right-[10px] mdtop-[15px] md:right-[15px] lg:top-[28px] lg:right-[23.7px] text-right">
               <p class="font-Manrope text-[16px] leading-[20px] lg:text-[26px] lg:leading-[36px] text-white">Πιεσόμετρο <br /> Μπράτσου</p>            
           </div>

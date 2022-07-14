@@ -1,7 +1,7 @@
 <template>
-    <div class="headerTop max-w-[1920px] w-[100%] relative h-[100% ] ml-[auto] mr-[auto] pl-[20px] pr-[20px] lg:pl-[0] lg:pr-[0] bg-primary-100">
-        <div class="flex justify-center items-end pl-[18px] pr-[18px] lg:h-[30px] flex-wrap pt-[20px] pb-[20px] lg:pt-[0] lg:pb-[3px]">
-            <div class="">
+    <div class="headerTop w-[100%] relative h-[100% ] ml-[auto] mr-[auto] pl-[20px] pr-[20px] lg:pl-[0] lg:pr-[0] bg-primary-100">
+        <div class="flex justify-between items-center lg:justify-center lg:items-end lg:h-[30px] flex-wrap pt-[20px] pb-[20px] lg:pt-[0] lg:pb-[3px]">
+            <div class="hidden lg:block">
 
             </div>
             <div class="">
@@ -13,7 +13,8 @@
                 </ul>
             </div>
             <div class="flex justify-center items-center lg:absolute lg:right-[18px]">
-                <p class="font-Manrope text-white text-[12px] leading-[22px]">Χρειάζεστε βοήθεια?  Καλέστε μας: 210 269 3600  &nbsp;&nbsp;&nbsp;</p><img :src="mobile" />
+                <p class="font-Manrope text-white text-[12px] leading-[22px] hidden lg:block">Χρειάζεστε βοήθεια?  Καλέστε μας: 210 269 3600  &nbsp;&nbsp;&nbsp;</p>
+                <a href="" ><img :src="mobile" /> </a>
             </div>
         </div>
     </div>

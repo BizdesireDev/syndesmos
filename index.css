@@ -72,13 +72,16 @@
     display: flex;
     cursor: pointer;
 } 
-.seller-box:hover p:last-child{
+.seller-box:hover a{
     color: #DD1B1E;
+}
+.swiper-button-prev, .swiper-button-next {
+    top: 43%;
 }
 .box:hover .box-img{
     background-color: #F9F9F9;
 }
-.box:hover .box-detail p:last-child{
+.box:hover .box-detail a{
     color: #DD1B1E;
 }
 .custom-carosel .swiper{
@@ -129,7 +132,15 @@
     max-width: 60px;
     font-size: 0;
 }
-@media(max-width: 1024px){
+.banner-img:hover{
+    box-shadow: 0 0 15px 0 rgb(0 0 0 / 40%)
+}
+@media(min-width: 2000px){
+    .custom-carosel .swiper-slide{
+        height:1000px !important;
+    }
+}
+@media(max-width: 1000px){
     .w-container-width{width: 100%;overflow: hidden;}
 }
 @media(max-width: 1780px){
@@ -147,5 +158,8 @@
 } */
 @media(max-width: 1399px){
     .w-container-width{max-width: 1150px;}
+}
+@media(min-width: 1001px) and (max-width:1200px){
+    .w-container-width{width: 900px;}
 }
 

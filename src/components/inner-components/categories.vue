@@ -12,8 +12,12 @@
       }"
       :pagination="{ clickable: true }"
       :breakpoints="{
-        '640': {
+        '320': {
           slidesPerView: 2,
+          spaceBetween: 20
+        },
+        '640': {
+          slidesPerView: 3,
           spaceBetween: 20
         },
         '768': {
